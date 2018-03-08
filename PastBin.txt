@@ -5,3 +5,18 @@ https://www.emuparadise.me/PSP_ISOs/Prince_of_Persia_-_The_Forgotten_Sands_(USA)
 
 Half Minute Hero download link for te psp:
 https://www.emuparadise.me/PSP_ISOs/Half-Minute_Hero_(USA)/157819
+
+GIT REPOS FOR ANDROID TAB NAVIGATION
+{
+#DEVLIGHT NAVIGATION TAB BAR#
+https://github.com/Devlight/NavigationTabBar
+
+#DEVLIGHT NAVIGATION TAB STRIP#
+https://github.com/Devlight/NavigationTabStrip
+
+#MATERIAL TABS#
+https://github.com/neokree/MaterialTabs
+
+#TABBED COORDINTORLAYOUT#
+https://github.com/vitovalov/TabbedCoordinatorLayout
+}
