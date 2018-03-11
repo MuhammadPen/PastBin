@@ -15,3 +15,8 @@ PastBin:
             https://github.com/vitovalov/TabbedCoordinatorLayout
 
 }
+
+#CS50 Resume#
+{
+https://www.youtube.com/watch?v=Zn8OJMYT-gc
+}
