@@ -16,7 +16,7 @@ PastBin:
 
 }
 
-#CS50 Resume#
-{
-https://www.youtube.com/watch?v=Zn8OJMYT-gc
-}
+    #CS50 Resume#
+    {
+        https://www.youtube.com/watch?v=Zn8OJMYT-gc
+    }
