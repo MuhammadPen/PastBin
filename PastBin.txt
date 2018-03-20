@@ -16,7 +16,22 @@ PastBin:
 
 }
 
-    #CS50 Resume#
+    #Useful Links for reader sync#
     {
-        https://www.youtube.com/watch?v=Zn8OJMYT-gc
+        Jtree : 
+        http://www.zentut.com/java-swing/jeditorpane/
+        JPane : 
+        https://www.javatpoint.com/java-jpanel
+        JFileChooser : 
+        https://www.javatpoint.com/java-jfilechooser
+        JEditorPane :
+        https://www.javatpoint.com/java-jeditorpane
+        JTextPane :
+        https://www.javatpoint.com/java-jtextpane
+        
+
+    }
+
+    #UPDATE YOUR PC {
+        https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-type-20a7-20a8/downloads/ds039782
     }
