@@ -31,7 +31,3 @@ PastBin:
         
 
     }
-
-    #UPDATE YOUR PC {
-        https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-type-20a7-20a8/downloads/ds039782
-    }
