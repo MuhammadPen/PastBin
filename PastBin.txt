@@ -31,11 +31,3 @@ PastBin:
         
 
     }
-
-    #EdX coruses {
-        Java Script:
-        https://courses.edx.org/courses/course-v1:W3Cx+JS.0x+3T2017/course/
-        Android dev:
-        https://courses.edx.org/courses/course-v1:GalileoX+CAAD005X+3T2017/course/
-    }
-
